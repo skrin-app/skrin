@@ -131,3 +131,4 @@ Skrin is in closed beta. Launching late 2026.
 - Website: [skrin.app](https://skrin.app)
 - FAQ: [skrin.app/faq](https://skrin.app/faq/)
 - Contact: support@skrin.app
+- ProductHunt: [www.producthunt.com/products/skrin](https://www.producthunt.com/products/skrin)
