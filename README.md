@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://skrin.app">Website</a> ·
   <a href="https://skrin.app/faq/">FAQ</a> ·
-  <a href="https://skrin.app/#waitlist">Join Waitlist</a>
+  <a href="https://skrin.app/#waitlist">Join Waitlist</a> ·
   <a href="https://www.producthunt.com/products/skrin">ProductHunt</a>
 </p>
 
